@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+<!--    <bean id = "paymentService" class = "in.strikes.payment.PaymentService">-->
+<!--        <constructor-arg index="0" value="UPI"/>-->
+<!--        <constructor-arg index="1" value="3"/>-->
+<!--    </bean>-->
+
+<!--    <bean id = "orderService" class = "in.strikes.OrderService">-->
+<!--        <property name="paymentServiceBean" ref="paymentService"/>-->
+<!--    </bean>-->
+
+<!--    <bean id = "orderService" class = "in.strikes.OrderService">-->
+<!--            <constructor-arg ref = "paymentService"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="upiPaymentService" class="in.strikes.payment.UPIPaymentService"/>-->
+<!--    <bean id="cardPaymentService" class="in.strikes.payment.CardPaymentService"/>-->
+<!--    <bean id="orderService" class="in.strikes.OrderService">-->
+<!--        <constructor-arg ref="cardPaymentService"/>-->
+<!--    </bean>-->
+<!--    <bean id="userService" class="in.strikes.UserService">-->
+<!--        <constructor-arg name="userNames">-->
+<!--            <list>-->
+<!--                <value>Aman</value>-->
+<!--                <value>Arsh</value>-->
+<!--                <value>Farhan</value>-->
+<!--            </list>-->
+<!--        </constructor-arg>-->
+
+<!--    </bean>-->
+
+    <bean id="userService"
+          class="in.strikes.UserService"
+          init-method="init"
+          destroy-method="cleanUp"
+          scope="prototype"
+    />
+
+</beans>
+
