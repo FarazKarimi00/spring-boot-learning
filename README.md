@@ -6,21 +6,26 @@ Each folder focuses on a different concept that I learned and implemented while 
 
 ## Topics Covered
 
+- Maven
 - Dependency Injection and IoC
 - Spring IoC Container
 - Bean Initialization
+- Circular Dependency
 - Bean Lifecycle
 - Bean Scopes
-- Circular Dependency
+- Spring Boot Configuration and Properties
 - XML-based Configuration
-- Maven
-- Spring MVC
-- JSP
-- Servlets
 - Spring Boot Core
+- Spring Core Review
 - CRUD Operations
-- DTOs
+- Servlets
+- JSP
+- Spring MVC
+- DTOs and Validation
+- Global Exception Handling
 - Spring Profiles
 - Servlet Filters
+- Advanced Filter Practice
+- Spring MVC Interceptors
 
 More topics will be added as I continue learning Spring Boot.

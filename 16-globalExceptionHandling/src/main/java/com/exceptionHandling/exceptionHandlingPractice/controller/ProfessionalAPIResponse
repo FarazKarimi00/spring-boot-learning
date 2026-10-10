@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "message": "Student retrieved successfully",
+  "data": {
+    "id": 1,
+    "name": "Faraz",
+    "email": "faraz@example.com"
+  },
+  "timestamp": "2026-10-04T01:50:00"
+}
+
+
+{
+  "success": false,
+  "message": "Student not found for id 10, try again",
+  "status": 404,
+  "timestamp": "2026-10-04T19:10:00"
+}
+
+
