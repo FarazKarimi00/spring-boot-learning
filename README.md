@@ -28,5 +28,6 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Advanced Filter Practice
 - Spring MVC Interceptors
 - AOP Introduction
+- Spring AOP Advice types (@Before, @AfterReturning, @AfterThrowing, @After, @Around)
 
 More topics will be added as I continue learning Spring Boot.
