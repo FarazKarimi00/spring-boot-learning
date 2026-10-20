@@ -29,5 +29,6 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Spring MVC Interceptors
 - AOP Introduction
 - Spring AOP Advice types (@Before, @AfterReturning, @AfterThrowing, @After, @Around)
+- Spring AOP pointcuts and types of proxies
 
 More topics will be added as I continue learning Spring Boot.
