@@ -31,5 +31,6 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Spring AOP Advice types (@Before, @AfterReturning, @AfterThrowing, @After, @Around)
 - Spring AOP pointcuts and types of proxies
 - Custom annotation in spring AOP
+- JDBC (Java Database Connectivity)
 
 More topics will be added as I continue learning Spring Boot.
