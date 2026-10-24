@@ -10,7 +10,7 @@ public class StudentRepository {
 
     String url = "jdbc:mysql://localhost:3306/jdbc_demo";
     String username = "root";
-    String password = "Faraz@9955962345";
+    String password = "";
 
     public void createStudent(Student student) {
         String sql = """
