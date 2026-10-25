@@ -1,12 +1,12 @@
-package com.learning.model;
+package com.learning.springJdbcDemo.model;
 
 public class Student {
     private Long id;
-    private String name;
+    private  String name;
     private String email;
     private int age;
 
-    public Student() {}
+    public Student(){}
 
     public Student(String name, String email, int age) {
         this.name = name;
@@ -44,15 +44,5 @@ public class Student {
 
     public void setAge(int age) {
         this.age = age;
-    }
-
-    @Override
-    public String toString() {
-        return "Student{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", email='" + email + '\'' +
-                ", age=" + age +
-                '}';
     }
 }

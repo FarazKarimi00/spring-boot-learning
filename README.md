@@ -32,5 +32,5 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Spring AOP pointcuts and types of proxies
 - Custom annotation in spring AOP
 - JDBC (Java Database Connectivity)
-
+- Spring JDBC (JdbcTemplate, DataSource, HikariCP)
 More topics will be added as I continue learning Spring Boot.
