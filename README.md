@@ -33,4 +33,5 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Custom annotation in spring AOP
 - JDBC (Java Database Connectivity)
 - Spring JDBC (JdbcTemplate, DataSource, HikariCP)
+- Hibernate Fundamentals (CRUD and entity mapping)
 More topics will be added as I continue learning Spring Boot.
