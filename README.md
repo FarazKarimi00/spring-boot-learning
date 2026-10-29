@@ -34,5 +34,7 @@ Each folder focuses on a different concept that I learned and implemented while 
 - JDBC (Java Database Connectivity)
 - Spring JDBC (JdbcTemplate, DataSource, HikariCP)
 - Hibernate Fundamentals (CRUD and entity mapping)
+- Hibernate Internals (Persistence Context, EntityManager, Transactions, Entity Lifecycle, Dirty Checking, 
+    merge(), detach(), flush(), and clear())
 
 More topics will be added as I continue learning Spring Boot.
