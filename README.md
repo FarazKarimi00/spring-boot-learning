@@ -36,5 +36,8 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Hibernate Fundamentals (CRUD and entity mapping)
 - Hibernate Internals (Persistence Context, EntityManager, Transactions, Entity Lifecycle, Dirty Checking, 
     merge(), detach(), flush(), and clear())
+- JPA Relationships (One-to-One, One-to-Many, Many-to-Many, @JoinColumn, @JoinTable, mappedBy, Owning and 
+    Inverse Sides)
+    
 
 More topics will be added as I continue learning Spring Boot.
