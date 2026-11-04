@@ -38,6 +38,6 @@ Each folder focuses on a different concept that I learned and implemented while 
     merge(), detach(), flush(), and clear())
 - JPA Relationships (One-to-One, One-to-Many, Many-to-Many, @JoinColumn, @JoinTable, mappedBy, Owning and 
     Inverse Sides)
-    
+- JPA Advanced topics (JPA Cascading, Eager and Lazy loading, and N + 1 problem)
 
 More topics will be added as I continue learning Spring Boot.
