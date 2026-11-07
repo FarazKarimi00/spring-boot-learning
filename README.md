@@ -39,5 +39,8 @@ Each folder focuses on a different concept that I learned and implemented while 
 - JPA Relationships (One-to-One, One-to-Many, Many-to-Many, @JoinColumn, @JoinTable, mappedBy, Owning and 
     Inverse Sides)
 - JPA Advanced topics (JPA Cascading, Eager and Lazy loading, and N + 1 problem)
+- Completed a Hibernate/JPA practice project implementing Student, Department, and Profile CRUD, entity
+    relationships, lazy loading, fetch joins, N+1 optimization, cascading,orphan removal, dirty checking,
+    and transaction management.
 
 More topics will be added as I continue learning Spring Boot.
