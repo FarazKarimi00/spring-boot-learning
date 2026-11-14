@@ -42,5 +42,6 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Completed a Hibernate/JPA practice project implementing Student, Department, and Profile CRUD, entity
     relationships, lazy loading, fetch joins, N+1 optimization, cascading,orphan removal, dirty checking,
     and transaction management.
+- Spring Data JPA (JpaRepository, JPQL, Pagination, sorting, and Count queries)
 
 More topics will be added as I continue learning Spring Boot.
