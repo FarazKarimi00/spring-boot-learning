@@ -43,5 +43,6 @@ Each folder focuses on a different concept that I learned and implemented while 
     relationships, lazy loading, fetch joins, N+1 optimization, cascading,orphan removal, dirty checking,
     and transaction management.
 - Spring Data JPA (JpaRepository, JPQL, Pagination, sorting, and Count queries)
+- Spring Transactions, ACID, @Transactional, Commit and Rollback
 
 More topics will be added as I continue learning Spring Boot.
