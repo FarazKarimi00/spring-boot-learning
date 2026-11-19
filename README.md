@@ -44,5 +44,7 @@ Each folder focuses on a different concept that I learned and implemented while 
     and transaction management.
 - Spring Data JPA (JpaRepository, JPQL, Pagination, sorting, and Count queries)
 - Spring Transactions, ACID, @Transactional, Commit and Rollback
+- Spring @Transactional (Propagation and Isolation levels)
+- Spring security Introduction (Authentication, Authorization, SecurityContext and SecurityContextHolder)
 
 More topics will be added as I continue learning Spring Boot.
