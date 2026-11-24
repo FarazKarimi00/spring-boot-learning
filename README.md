@@ -46,5 +46,6 @@ Each folder focuses on a different concept that I learned and implemented while 
 - Spring Transactions, ACID, @Transactional, Commit and Rollback
 - Spring @Transactional (Propagation and Isolation levels)
 - Spring security Introduction (Authentication, Authorization, SecurityContext and SecurityContextHolder)
+- Learn password security concepts: hashing, salting, peppering, and BCrypt
 
 More topics will be added as I continue learning Spring Boot.
